@@ -7,5 +7,5 @@
 npm install
 npm start
 ```
-#é necessário adicionar apikey da google antes no arquivo Header.svelte
+## É necessário adicionar apikey da google no arquivo Header.svelte, antes de testar.
 
