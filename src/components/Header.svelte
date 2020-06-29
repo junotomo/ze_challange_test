@@ -4,7 +4,7 @@
    import {location} from '../store/schema.js'
    import {cart, showCart} from '../store/cart.js'
    
-   let api = 'AIzaSyB__cGgalczo3__i6oJJOHyawKHpGw_Y4Y'
+   let api = /*GOOOGLE_API_KEY*/
    let locatorSection
    let input
    let autocomplete
